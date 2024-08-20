@@ -1,4 +1,4 @@
-# KidSatExt
+# KidSatExtZambia
 We have two aims with this extension of the KidSat project:
 1. Use the DinoV2 model to predict orphanhood (as a proportion, and later as a count) in Zambia in 2018 and 2023. With the aim to compare this to data 
 we have in the Sinazongwe District.
