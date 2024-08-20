@@ -1,0 +1,4 @@
+<<<<<<< Updated upstream
+# ignore all except git ignore
+*
+!.gitignore
